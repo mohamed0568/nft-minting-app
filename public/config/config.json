@@ -1,15 +1,15 @@
 {
-  "CONTRACT_ADDRESS": "0x001fd0C15a39D460e4211c71cF890Aaeb6f67afF",
-  "SCAN_LINK": "https://etherscan.io/address/0x001fd0C15a39D460e4211c71cF890Aaeb6f67afF",
+  "CONTRACT_ADDRESS": "0xEe2bdDc406AEEDec41674D089b5D487aC3546194",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xEe2bdDc406AEEDec41674D089b5D487aC3546194",
   "NETWORK": {
-    "NAME": "ETHEREUM",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 4
   },
-  "NFT_NAME": "VEEFRIENDS",
+  "NFT_NAME": "TEST VEE",
   "SYMBOL": "VEE",
   "MAX_SUPPLY": 5000,
-  "WEI_COST": 300000000000000000,
+  "WEI_COST": 3000000000000000,
   "DISPLAY_COST": 0.3,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
